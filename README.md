@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Sibabalwe Sinyaniso and I'm interested in exploering the Python Programming Language 🐍.
+### Hi there 👋 My name is Sibabalwe Sinyaniso and I'm interested in exploring the Python Programming Language 🐍.
 
 ![Black and Gray Gradient Professional Presentation](https://github.com/Sabelo-Sabs/Sabelo-Sabs/assets/83790438/b5624a97-3566-4214-98d3-be7eb6643b4f)
 > The happiest people spend much time in a state of flow - the state in which people are so involved in an activity that nothing else seems to matter; the experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it. ~ Mihaly Csikszentmihalyi
@@ -8,8 +8,8 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Flask|
-|     2| Apache Airflow|
+|     1| Python 🐍|
+|     2| Apache Airflow💨🔄|
 
 </details>
 <!--
