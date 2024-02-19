@@ -12,6 +12,14 @@
 |     2| Apache Airflow💨🔄|
 
 </details>
+
+<details>
+<summary>My other passions</summary>
+
+- <a href="https://medium.com/@sibabalwesinyaniso">Writer</a>
+
+</details>
+
 <!--
 **Sabelo-Sabs/Sabelo-Sabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
